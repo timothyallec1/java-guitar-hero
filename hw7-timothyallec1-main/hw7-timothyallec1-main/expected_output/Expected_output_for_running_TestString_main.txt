@@ -1,0 +1,47 @@
+Testing KPGuitarString with this array:
+[0.0, 0.25, 0.5, 0.375]
+passed
+
+Testing KPGuitarString with this array:
+[0.125, 0.25, 0.5, 0.375, -0.25, 0.5, 0.25, 0.125, -0.125, -0.375]
+passed
+
+Testing KPGuitarString with this array:
+[0.125, 0.25, 0.5, 0.375, -0.25, 0.5, 0.25, 0.0, -0.125, -0.375]
+passed
+
+Testing KPGuitarString with this array:
+[0.0, 0.0, 0.0, 0.75, -0.5, 0.0, 0.0, 0.25]
+passed
+
+Testing KPGuitarString with frequency 11025
+passed
+
+Testing KPGuitarString with frequency 4411
+passed
+
+Testing KPGuitarString with frequency 4410
+passed
+
+Testing KPGuitarString with frequency 4409
+passed
+
+Testing KPGuitarString with frequency 4201
+passed
+
+Testing KPGuitarString with frequency 4199
+passed
+
+Testing KPGuitarString with frequency 441
+passed
+
+Testing KPGuitarString with frequency 440
+passed
+
+Testing KPGuitarString with frequency 438
+passed
+
+Testing KPGuitarString with frequency 123
+passed
+
+passed all tests
